@@ -1,18 +1,20 @@
 ### Oii! eu sou o Bruno Gottsfritz Silva
 
-<!--
-**bruno-gs/bruno-gs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Faço Engenharia Elétrica na FEI, sou fascinado por tecnologia e pelo que ela é capaz de fazer.
+- Gosto de estudar sobre computadores, e depois que entrei na RoboFEI@HOME, meu maior hobbie, desenvolvi minha paixão em programação.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 Atualmente sou responsável pela área de visão computacional na equipe, mas estou focado no desenvolvimento da nossa simulação no Docker.
+- 🌱 Estou aperfeiçoando minhas habilidades em python, praticando C nas aulas de Desenvolvimento de Algoritmos e começando meus estudos em MatLab e Simulink.
+<!-- - 👯 I’m looking to collabor
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Gosto de fazer ece
+ -->
+<!--
+**bruno-gs/bruno-gs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 -->
 
  <div>
