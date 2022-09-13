@@ -1,10 +1,8 @@
-### Oii! eu sou o Bruno Gottsfritz Silva
+### Olá, bem vindx!
 
-- Faço Engenharia Elétrica na FEI, sou fascinado por tecnologia e pelo que ela é capaz de fazer.
-- Gosto de estudar sobre computadores, e depois que entrei na RoboFEI@HOME, meu maior hobbie, desenvolvi minha paixão em programação.
-
-- 🔭 Atualmente sou responsável pela área de visão computacional na equipe, mas estou focado no desenvolvimento da nossa simulação no Docker.
-- 🌱 Estou aperfeiçoando minhas habilidades em python, praticando C nas aulas de Desenvolvimento de Algoritmos e começando meus estudos em MatLab e Simulink.
+- I am studying Electrical Engineering at FEI. Almost 3 years of my graduation I had been at RoboFEI@HOME, where I learned all about the development of an autonomous service robot and how to work effectively in a team.
+- I was a programming team manager in computer vision, my favorite field of study. 
+- 🌱 Recently I am not working directly with programming, but I continue to study and improve my knowledge with videos and at university.
 <!-- - 👯 I’m looking to collabor
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
