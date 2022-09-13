@@ -1,4 +1,4 @@
-### Olá, bem vindx!
+### Hello, welcome!
 
 - I am studying Electrical Engineering at FEI. Almost 3 years of my graduation I had been at RoboFEI@HOME, where I learned all about the development of an autonomous service robot and how to work effectively in a team.
 - I was a programming team manager in computer vision, my favorite field of study. 
