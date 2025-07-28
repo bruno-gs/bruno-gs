@@ -1,12 +1,32 @@
+# Bruno Gottsfritz
 ### 👋 Welcome!
 
-I'm **Bruno Gottsfritz**, an Electrical/Electronic Engineer graduated from **FEI**, currently working at **Mercedes-Benz do Brasil** with focus on **HMI and E/E integration** for commercial vehicles.  
-I'm passionate about technology, embedded systems, and intelligent human-machine interaction.
+<div align="center">
+  
+🚀 **Passionate Electrical & Electronic Engineer** building the next generation of trucks at **Mercedes-Benz do Brasil**  
+🌍 **Based in** São Paulo, Brazil  
+🧠 **Currently** developing an automated deep learning system for **HMI validation** in commercial vehicles  
 
-🦾 During my time at university, I spent nearly **3 years** as a core member of **RoboFEI@HOME**, a world champion autonomous service robot team.  
-🚀 I led the **Computer Vision** team, where I developed skills in perception systems, ROS, and teamwork.
+</div>
 
-Today, I’m continuing to evolve through hands-on work in the automotive industry and through my **Master's in Artificial Intelligence**, where I focus on deep learning, computer vision, and autonomous systems.
+---
+
+## 🎓 **Education**
+
+<div align="center">
+  
+**🎓 Bachelor's Degree in Electrical/Electronic Engineering**  
+*FEI – Centro Universitário da Fundação Educacional Inaciana, São Bernardo do Campo, Brazil*  
+📅 **2019 – 2023**
+
+  🦾 During my time at university, I spent **almost 3 years** as a core member of **RoboFEI@HOME**, a **world champion autonomous service robot team**.  
+  🚀 As the **Computer Vision** team lead, I honed my skills in perception systems, ROS, and collaborative problem-solving, pushing the boundaries of autonomous systems and robotics.
+
+**🎓 Master’s Degree in Artificial Intelligence**  
+*FEI – Centro Universitário da Fundação Educacional Inaciana, São Bernardo do Campo, Brazil*  
+📅 **2025 – Present**
+
+</div>
 
 ---
 
@@ -19,11 +39,19 @@ Today, I’m continuing to evolve through hands-on work in the automotive indust
 
 ---
 
-### 📊 GitHub Stats
+## 📊 **GitHub Analytics**
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bruno-gs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-gs&layout=compact&theme=dark"/>
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bruno-gs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-gs&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=bruno-gs&theme=tokyonight&border_radius=10)](https://git.io/streak-stats)
+
 </div>
 
 ---
@@ -43,8 +71,15 @@ Today, I’m continuing to evolve through hands-on work in the automotive indust
 </div>
 
 ---
-### 🐍 GitHub Contribution Snake
 
-<p align="center">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/bruno-gs/bruno-gs/output/github-contribution-grid-snake.svg" />
-</p>
+<div align="center">
+  
+### 💭 **"Wer ein Warum zu leben hat, erträgt fast jedes Wie."** - *Friedrich Nietzsche*
+### 💬 **"Das Beste oder Nichts."** - *Gottlieb Daimler*
+
+**Thanks for visiting! Let's create something amazing together! 🚀**
+
+![Profile Views](https://komarev.com/ghpvc/?username=bruno-gs&color=blueviolet&style=flat-square&label=Profile+Views)
+
+</div>
+
