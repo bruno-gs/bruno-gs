@@ -5,7 +5,9 @@
   
 🚀 **Passionate Electrical & Electronic Engineer** building the next generation of trucks at **Mercedes-Benz do Brasil**  
 🌍 **Based in** São Paulo, Brazil  
-🧠 **Currently** developing an automated deep learning system for **HMI validation** in commercial vehicles  
+🧠 **Currently** developing an automated deep learning system for **HMI validation** in commercial vehicles
+🦾 During my time at university, I spent **almost 3 years** as a core member of **RoboFEI@HOME**, a **world champion autonomous service robot team**.  
+🚀 As the **Computer Vision** team lead, I honed my skills in perception systems, ROS, and collaborative problem-solving, pushing the boundaries of autonomous systems and robotics.
 
 </div>
 
@@ -18,9 +20,6 @@
 **🎓 Bachelor's Degree in Electrical/Electronic Engineering**  
 *FEI – Centro Universitário da Fundação Educacional Inaciana, São Bernardo do Campo, Brazil*  
 📅 **2019 – 2023**
-
-  🦾 During my time at university, I spent **almost 3 years** as a core member of **RoboFEI@HOME**, a **world champion autonomous service robot team**.  
-  🚀 As the **Computer Vision** team lead, I honed my skills in perception systems, ROS, and collaborative problem-solving, pushing the boundaries of autonomous systems and robotics.
 
 **🎓 Master’s Degree in Artificial Intelligence**  
 *FEI – Centro Universitário da Fundação Educacional Inaciana, São Bernardo do Campo, Brazil*  
