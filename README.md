@@ -46,8 +46,7 @@
 
 <div align="center">
   
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bruno-gs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bruno-gs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&custom_title=Bruno%20Gottsfritz%20Stats&hide_border=false&hide_rank=false&token=GH_STATS_TOKEN_1"/>
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bruno-gs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&custom_title=Bruno%20Gottsfritz%20Stats&hide_border=false&hide_rank=false&token=GH_STATS_TOKEN_1"/> -->
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-gs&layout=compact&langs_count=8&theme=tokyonight"/>
 
