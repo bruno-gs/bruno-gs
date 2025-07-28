@@ -43,5 +43,8 @@ Today, I’m continuing to evolve through hands-on work in the automotive indust
 </div>
 
 ---
+### 🐍 GitHub Contribution Snake
 
-![Snake animation](https://github.com/bruno-gs/bruno-gs/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/bruno-gs/bruno-gs/output/github-contribution-grid-snake.svg" />
+</p>
