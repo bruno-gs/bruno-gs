@@ -44,17 +44,11 @@
 
 ## 📊 **GitHub Analytics**
 
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-gs&layout=compact&langs_count=8&theme=tokyonight"/>
   
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bruno-gs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&custom_title=Bruno%20Gottsfritz%20Stats&hide_border=false&hide_rank=false&token=GH_STATS_TOKEN_1"/> -->
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-gs&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=bruno-gs&theme=tokyonight&border_radius=10)](https://git.io/streak-stats)
+  <img height="180em" src="https://streak-stats.demolab.com?user=bruno-gs&theme=tokyonight&border_radius=10"/>
 
 </div>
 
