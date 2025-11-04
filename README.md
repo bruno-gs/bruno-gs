@@ -23,7 +23,7 @@
   
 **🎓 Bachelor's Degree in Electrical/Electronic Engineering**  
 *FEI – Centro Universitário da Fundação Educacional Inaciana, São Bernardo do Campo, Brazil*  
-📅 **2019 – 2023**
+📅 **2018 – 2023**
 
 **🎓 Master’s Degree in Artificial Intelligence**  
 *FEI – Centro Universitário da Fundação Educacional Inaciana, São Bernardo do Campo, Brazil*  
